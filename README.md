@@ -1,1 +1,1 @@
-# CNN_vs_MLP
+# MLP_vs_CNN
